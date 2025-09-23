@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mamunur Rasid (Asif)
 
-💻 **Machine Learning Enthusiast | NLP Explorer | Problem Solver**  
+💻 **Machine Learning Enthusiast | Passionate About NLP & Innovation | Data-Driven Problem Solver**  
 🌍 Based in Dhaka, Bangladesh | Passionate about building AI for local impact  
 
 
