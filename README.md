@@ -104,7 +104,6 @@
 
 ## 📊 GitHub Stats
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifmr7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifmr7&layout=compact&theme=radical)  
 
 ---
