@@ -118,4 +118,4 @@
 
 ---
 
-⭐ *“Turning local problems into global solutions with AI and technology.”*  
+
