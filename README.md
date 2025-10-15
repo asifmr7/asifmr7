@@ -8,10 +8,6 @@
 ## 🌐 Connect With Me
 
 - 📧 **Email:** [asif.mamunurrasid@gmail.com](mailto:asif.mamunurrasid@gmail.com)
-- [VJudge](https://vjudge.net/user/asif__mamunur)  
-- [Facebook](https://facebook.com/asifmamunur)  
-
-
 ---
 
 
