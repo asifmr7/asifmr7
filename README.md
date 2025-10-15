@@ -7,10 +7,10 @@
 ---
 ## 🌐 Connect With Me
 
-- [Codeforces](https://codeforces.com/profile/errorwithasif)  
+- 📧 **Email:** [asif.mamunurrasid@gmail.com](mailto:asif.mamunurrasid@gmail.com)
 - [VJudge](https://vjudge.net/user/asif__mamunur)  
 - [Facebook](https://facebook.com/asifmamunur)  
-- 📧 **Email:** [asif.mamunurrasid@gmail.com](mailto:asif.mamunurrasid@gmail.com)
+
 
 ---
 
